@@ -1,0 +1,1 @@
+Макет - https://www.figma.com/file/fw0GA18nmpVjTBzjtiEK2L/Friday_Live_Coding?node-id=0%3A1
